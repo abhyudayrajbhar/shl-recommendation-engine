@@ -1,0 +1,11 @@
+Assessment Name,URL,Remote Testing,Adaptive Support,Duration,Test Type
+Core Java,https://www.shl.com/java,Yes,No,45,Technical
+Python Developer,https://www.shl.com/python,Yes,Yes,60,Technical
+Sales Aptitude,https://www.shl.com/sales,Yes,Yes,30,Business
+HR Assessment,https://www.shl.com/hr,No,Yes,40,Management
+Financial Analyst Test,https://www.shl.com/finance,Yes,No,50,Financial
+Frontend Developer,https://www.shl.com/frontend,Yes,No,40,Technical
+Backend Developer,https://www.shl.com/backend,Yes,Yes,55,Technical
+Marketing Specialist,https://www.shl.com/marketing,No,Yes,35,Business
+Business Analyst,https://www.shl.com/ba,Yes,Yes,45,Business
+Project Manager,https://www.shl.com/pm,Yes,No,60,Management
